@@ -33,3 +33,4 @@ C:\Users\joshu\Documents\VS Code Projects\ContosoPizza\obj\Debug\net8.0\refint\C
 C:\Users\joshu\Documents\VS Code Projects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\joshu\Documents\VS Code Projects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\joshu\Documents\VS Code Projects\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\joshu\Documents\VS Code Projects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
